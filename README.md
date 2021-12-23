@@ -20,6 +20,18 @@
 
  </p>
  
+ 📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+JSX          8 hrs 42 mins   ██████████████████░░░░░░░   71.83 % 
+TypeScript   2 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.97 % 
+JavaScript   1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+```
+<!--END_SECTION:waka-->
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+ 
   <h3>My Latest Project</h3>
 <ul>
  <li><a href="https://github.com/Saruj-chy/Car-Parking-System"><b> Car Parking System </b></a><br/><i> React Native Location based Car parking project  </i></li>
