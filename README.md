@@ -22,9 +22,7 @@
  
   <h3>My Latest Project</h3>
 <ul>
-  
-      
-      <li><a href="https://github.com/Saruj-chy/Authenticate"><b> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
+ <li><a href="https://github.com/Saruj-chy/Authenticate"><b> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
   
 </ul>
  
