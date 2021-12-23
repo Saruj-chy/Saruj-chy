@@ -27,6 +27,8 @@ Car Parking System) <a/> <i> React Native Location based Car parking project </i
     
     <li><a href="https://github.com/Saruj-chy/Authenticate" width="20" alt="new" > 	<br/>
 Authenticate <a/> <i> Android authentication project </i> </li>
+      
+      <li><a href="https://github.com/Saruj-chy/Authenticate"><b> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
   
 </ul>
  
