@@ -5,7 +5,7 @@
 <h3>Things I code with</h3>
 <p>
   <button class={{background-color: '#4CAF50'}}>Android</button>
-  <img alt="Android" src="" />
+  <img alt="Android" src="https://img.shields.io/badge/%20-Android%20-blue" />
   <img alt="Java" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Kotlin" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="PHP" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
