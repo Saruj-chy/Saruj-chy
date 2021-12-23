@@ -22,7 +22,7 @@
  
  <h3>Play store Apps</h3>
 <ul>
-  <li><a href="https://play.google.com/store/apps/details?id=com.sd.spartan.easyhealth&hl=en&gl=US" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.sd.spartan.easyhealth&hl=en&gl=US" width="20" alt="new" > Easy Health & Find Your Doctor <a/> </li>
   
   
   <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
