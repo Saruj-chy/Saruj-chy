@@ -22,7 +22,8 @@
  
   <h3>My Latest Project</h3>
 <ul>
- <li><a href="https://github.com/Saruj-chy/Authenticate"><b> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
+ <li><a href="https://github.com/Saruj-chy/Car-Parking-System"><b> Car Parking System </b></a><br/><i> React Native Location based Car parking project  </i></li>
+ <li><a href="https://github.com/Saruj-chy/Authenticate"><b> Authenticate</b></a><br/><i> Android authentication project</i></li>
   
 </ul>
  
