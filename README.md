@@ -24,6 +24,9 @@
 <ul>
  <li><a href="https://github.com/Saruj-chy/Car-Parking-System"><b> Car Parking System </b></a><br/><i> React Native Location based Car parking project  </i></li>
  <li><a href="https://github.com/Saruj-chy/Authenticate"><b> Authenticate</b></a><br/><i> Android authentication project</i></li>
+ <li><a href="https://github.com/Saruj-chy/Easy-Health-FYD"><b> Easy Health & FYD </b></a><br/><i> Easy Health & Find Your Doctor is related to finding your desired Doctor, Nearby dr., Doctor Search, Search your Doctor, BD Doctors, Amar Doctor, Health Bangladesh, etc. </i></li>
+   <li><a href="https://github.com/Saruj-chy/SHC_SnakeHumanConflict"><b> SHC(SnakeHumanConflict)</b></a><br/><i> Collection and analysis of those memories may provide vital information for nature research. An app is developed for collecting data about snakes and bite incidents that occurred within the Bangladesh boundary. This app is free of cost for the user. </i></li>
+
   
 </ul>
  
