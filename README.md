@@ -19,18 +19,7 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 
  </p>
- 
- 📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-```text
-JSX          8 hrs 42 mins   ██████████████████░░░░░░░   71.83 % 
-TypeScript   2 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.97 % 
-JavaScript   1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-```
-<!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
  
   <h3>My Latest Project</h3>
 <ul>
