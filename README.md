@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I am Sarose Datta 😎
+
+#I am a Mobile App Developer
 
 <!--
 **Saruj-chy/Saruj-chy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
