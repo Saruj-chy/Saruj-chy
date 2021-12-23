@@ -22,8 +22,11 @@
  
   <h3>My Latest Project</h3>
 <ul>
-  <li><a href="https://github.com/Saruj-chy/Car-Parking-System" width="20" alt="new" > 	
+  <li><a href="https://github.com/Saruj-chy/Car-Parking-System" width="20" alt="new" > 	<br/>
 Car Parking System) <a/> <i> React Native Location based Car parking project </i> </li>
+    
+    <li><a href="https://github.com/Saruj-chy/Authenticate" width="20" alt="new" > 	<br/>
+Authenticate <a/> <i> Android authentication project </i> </li>
   
 </ul>
  
