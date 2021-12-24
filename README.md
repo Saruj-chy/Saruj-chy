@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! </br> I'm Sarose, a Mobile app developer </p> <br/>
 <h3>Things I code with</h3>
-<p class="center">
+<p align="center">
   <img alt="Android" src="https://img.shields.io/badge/%20-Android%20-blue" />
   <img alt="Java" src="https://img.shields.io/badge/%20-Java-green" /> 
   <img alt="Kotlin" src="https://img.shields.io/badge/%20-Kotlin-brightgreen" /> 
