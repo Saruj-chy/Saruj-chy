@@ -45,5 +45,8 @@ SHC(Snake Human Conflict) <a/> </li>
  <h3>My live Website</h3>
 <ul>
  <li><a href="https://snakehumanconflict.org/"><b> Snake Human Conflict Website </b></a><br/><i> This website build on react js  </i></li>
+  </ul>
   
-</ul>
+  <h3><a href="https://github.com/Saruj-chy/Saruj-chy/blob/main/Resume.pdf"><b> My Resume </b></a> </h3>
+
+
