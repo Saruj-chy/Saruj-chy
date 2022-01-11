@@ -27,6 +27,8 @@
    <li><a href="https://github.com/Saruj-chy/SHC_SnakeHumanConflict"><b> SHC(SnakeHumanConflict)</b></a><br/><i> Collection and analysis of those memories may provide vital information for nature research. An app is developed for collecting data about snakes and bite incidents that occurred within the Bangladesh boundary. This app is free of cost for the user. </i></li>
  <li><a href="https://github.com/Saruj-chy/Car-Parking-System"><b> Car Parking System </b></a><br/><i> React Native Location based Car parking project  </i></li>
  <li><a href="https://github.com/Saruj-chy/Authenticate"><b> Authenticate</b></a><br/><i> Android authentication project</i></li>
+  <li><a href="https://github.com/Saruj-chy/TaskFBA"><b> TaskFBA</b></a><br/><i> This is a task releted firebase based app, where user can sign in and sign up from the app. User also add his regular task through this app. User also shows all users who are installed and use the apps. User also show his/her regular assigned task. </i></li>
+  <li><a href="https://github.com/Saruj-chy/Authenticate-Firebase"><b> Authenticate-Firebase </b></a><br/><i> This project is developed based on React Native. You can sign in and sign up using firebase authentication and firestore. You can also retrive the data from firebase and showing the profile. Talking about forget password, you can also reset the password by sending firebase reset password link by provided email. And also logout from the system. </i></li>
  
    
 
