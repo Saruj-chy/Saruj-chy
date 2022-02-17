@@ -29,6 +29,7 @@
  <li><a href="https://github.com/Saruj-chy/Authenticate"><b> Authenticate</b></a><br/><i> Android authentication project</i></li>
   <li><a href="https://github.com/Saruj-chy/TaskFBA"><b> TaskFBA</b></a><br/><i> This is a task releted firebase based Android app, where user can sign in and sign up from the app. User also add his regular task through this app. User also shows all users who are installed and use the apps. User also show his/her regular assigned task. </i></li>
   <li><a href="https://github.com/Saruj-chy/Authenticate-Firebase"><b> Authenticate-Firebase </b></a><br/><i> This project is developed based on React Native. You can sign in and sign up using firebase authentication and firestore. You can also retrive the data from firebase and showing the profile. Talking about forget password, you can also reset the password by sending firebase reset password link by provided email. And also logout from the system. </i></li>
+  <li><a href="https://github.com/Saruj-chy/SignCompose"><b> SignCompose </b></a><br/><i> This is a sign-in project deployed on a jetpack compose of Kotlin. This is my first jetpack to compose the project. </i></li>
  
    
 
