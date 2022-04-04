@@ -50,6 +50,6 @@ SHC(Snake Human Conflict) <a/> </li>
  <li><a href="https://snakehumanconflict.org/"><b> Snake Human Conflict Website </b></a><br/><i> This website build on react js  </i></li>
   </ul>
   
-  <h3><a href="https://github.com/Saruj-chy/Saruj-chy/blob/main/Resume.pdf"><b> My Resume </b></a> </h3>
+  <h3><a href="https://drive.google.com/file/d/1GrkI3cUgz2I_jmSBkQRvVQIiNvfgCmar/view?usp=sharing"><b> My Resume </b></a> </h3>
 
 
