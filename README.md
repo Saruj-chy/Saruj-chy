@@ -4,12 +4,13 @@
 <h3>Things I code with</h3>
 <p align="center">
   <img alt="Android" src="https://img.shields.io/badge/%20-Android%20-blue" />
+  <img alt="Flutter" src="https://img.shields.io/badge/%20-Flutter-yellowgreen" /> 
   <img alt="Java" src="https://img.shields.io/badge/%20-Java-green" /> 
   <img alt="Kotlin" src="https://img.shields.io/badge/%20-Kotlin-brightgreen" /> 
   <img alt="PHP" src="https://img.shields.io/badge/%20-PHP-orange" />  
   <img alt="MySql" src="https://img.shields.io/badge/%20-MySql-%23F29111" /> <br/>
   <img alt="React Native" src="https://img.shields.io/badge/%20-React%20Native-blue" /> 
-  <img alt="Flutter" src="https://img.shields.io/badge/%20-Flutter-yellowgreen" /> 
+
   <img alt="React JS" src="https://img.shields.io/badge/%20-React%20JS-blue" />  
   <img alt="HTML5" src="https://img.shields.io/badge/%20-HTML5-%23F29111" /> <br/>
   <img alt="JS" src="https://img.shields.io/badge/%20-JS-Green" /> 
