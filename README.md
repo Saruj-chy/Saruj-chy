@@ -42,6 +42,8 @@
   <h4>Flutter</h4>
   <ul>
 
+  <li><a href="https://github.com/Saruj-chy/cuc_result_process"><b> CUC Result Processing System </b></a><br/><i> This is a Result Processing System Apps, which is developed for University of Chittagong Laboratory School and College. There are two rules Admin and Teacher. All teacher can select their course subject and insert the result of all the students of this course. The main role is Admin, who can control everything. Admin can see the teacher's details, who are signed in to this app are tracked by admin and can also update their role and also delete them. Admin can also create the new session and delete the session. After deleted the session, all the students data of that session will be removed completely. Admin can also insert the new student details by one by one or from a excel file and also update and delete the student. Admin can also insert the student result one by one subject select or from a excel files. Admin can see the history, when and which teacher entry/update/delete the data. Admin can generate the student result card by session and group wise. Admin can also generate the tabulation sheet by session and group-wise. Admin can also generate the overall result sheet of all group which defined the entire results of Merit and Failed students List.  </i></li>
+
 <li><a href="https://github.com/Saruj-chy/drug_serialize"><b> Drug Serialize </b></a><br/><i> This is a research project create on flutter. The purpose of this research work is to focus on drug serialization that helps in the verification and identification of counterfeit medicines by allowing patients and healthcare professionals to check the authenticity of a drug before its intended use.  </i></li>    
 </ul>
 
