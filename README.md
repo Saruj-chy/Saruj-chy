@@ -42,8 +42,8 @@
   <h4>Flutter</h4>
   <ul>
 
-
-    <li><a href="https://github.com/Saruj-chy/drug_serialize"><b> Drug Serialize </b></a><br/><i> This is a research project create on flutter. The purpose of this research work is to focus on drug serialization that helps in the verification and identification of counterfeit medicines by allowing patients and healthcare professionals to check the authenticity of a drug before its intended use.  </i></li>   
+ <li><a href="https://github.com/Saruj-chy/Car-Parking-System"><b> Car Parking System </b></a><br/><i> React Native Location based Car parking project  </i></li>
+    
 </ul>
 
 <h4>React Native</h4>
