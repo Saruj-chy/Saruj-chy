@@ -59,6 +59,13 @@
 
  <li><a href="https://github.com/Saruj-chy/FakeStoreApi"><b> FakeStoreApi </b> </a> <br/><i> FakeStoreApi React Native App - a sleek, fully functional mobile application built with React Native and powered by Firebase Authentication and fetches products data from the FakeStoreApi, displays the products on a home page in a grid view, implements a product detail page which implements product detail API, allows users to mark products as favorites, and provides a separate page to view and manage their favorite items using local storage.</i></li>
 </ul>
+
+<h4>MySQL</h4>
+
+<ul>
+
+ <li><a href="https://github.com/Saruj-chy/Project_PowerBI"><b> Project PowerBI </b></a><br/><i> There are provided three tables: Products, Sales, and Customers. These tables integrate into a SQL Server environment, perform data transformations, optimize the database, and generate a BI report.  </i></li>
+</ul>
  
  <h3>Play store Apps</h3>
 <ul>
